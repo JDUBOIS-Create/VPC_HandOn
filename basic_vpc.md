@@ -20,3 +20,11 @@ Network ACL : Règles entrantes/sortantes pour SSH, HTTP, HTTPS, ports éphémè
 Résultat
 Une instance EC2 publique accessible via SSH et HTTP/HTTPS.
 
+## Preuves
+![Configuration du VPC](screenshots/vpc-config.png)
+![Sous-réseau public](screenshots/subnet-config.png)
+![Passerelle Internet](screenshots/igw-config.png)
+![Table de routage](screenshots/route-table.png)
+![Instance EC2](screenshots/ec2-instance.png)
+![Security Group](screenshots/security-group.png)
+![Network ACL](screenshots/nacl-config.png)
