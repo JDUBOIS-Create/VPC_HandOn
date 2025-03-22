@@ -39,10 +39,23 @@ Résultat
 Une instance EC2 publique accessible via SSH et HTTP/HTTPS.
 
 ## Preuves
+Configuration du VPC 
 ![Configuration du VPC](screenshots/vpc-config.png)
+
+Sous-Réseau public 
 ![Sous-réseau public](screenshots/subnet-config.png)
+
+Passerelle Internet
 ![Passerelle Internet](screenshots/igw-config.png)
+
+Table de routage 
 ![Table de routage](screenshots/route-table.png)
+
+Instance EC2
 ![Instance EC2](screenshots/ec2-instance.png)
+
+Security Group
 ![Security Group](screenshots/security-group.png)
+
+Network ACL
 ![Network ACL](screenshots/nacl-config.png)
