@@ -59,3 +59,6 @@ Security Group
 
 Network ACL
 ![Network ACL](screenshots/nacl-config.png)
+
+Architecture AWS 
+![Schema](screenshots/schema.png)
